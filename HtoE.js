@@ -1,5 +1,4 @@
 // 출처: http://www.theyt.net/wiki/한영타변환기
-<!--
 var ENG_KEY = "rRseEfaqQtTdwWczxvgkoiOjpuPhynbml";
 var KOR_KEY = "ㄱㄲㄴㄷㄸㄹㅁㅂㅃㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎㅏㅐㅑㅒㅓㅔㅕㅖㅗㅛㅜㅠㅡㅣ";
 var CHO_DATA = "ㄱㄲㄴㄷㄸㄹㅁㅂㅃㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎ";
@@ -329,4 +328,3 @@ function korTypeToEng(src) {
 
 	return res;
 }
--->
