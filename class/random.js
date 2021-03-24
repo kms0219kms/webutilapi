@@ -1,3 +1,5 @@
+// 출처: https://www.minzkn.com/random.html
+
 window.addEventListener('load', init, false);
 
 function init(){
