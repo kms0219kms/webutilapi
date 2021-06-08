@@ -1,3 +1,4 @@
+// 출처: https://api.dcmys.kr/%EB%B7%81%EC%96%B4%EB%B2%88%EC%97%AD%EA%B8%B0/
 var sendReq = function() {
 	var q = $('[name="q"]').value;
 	var e = $('[name="e"]').value;
